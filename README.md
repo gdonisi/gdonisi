@@ -12,7 +12,7 @@ I’m a [Data Science & Machine Learning](https://corsi.unisa.it/informatica-mag
 I write code mostly in **Python** and **Java**, which means I spend half my time dealing with indentation errors and the other half wondering why everything in Java takes 10 lines.  
 Occasionally, I build things. Some of them _kinda_ work.  
 
-I know how to Google. I don't know how to plug USB sticks on the first try.  
+I know how to Google. I know how to plug USB sticks on the first try (especially Type-C).  
 
 **Things I like**:
 - Linux

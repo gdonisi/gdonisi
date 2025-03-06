@@ -27,3 +27,4 @@ I know how to Google. I know how to plug USB sticks on the first try (especially
 - JavaScript
 - Meetings that could be emails
 - Bugs
+- JavaScript

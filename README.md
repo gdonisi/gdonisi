@@ -7,7 +7,7 @@ You were expecting some fancy GitHub profile README with colors, badges, and aut
 I'm Giovanni, but people call me _Zio Frank_. Yes, it’s longer than my actual name. No, that’s not how nicknames are supposed to work.  
 A dear childhood friend gave me this nickname, and it stuck with me, so I still use it today.  
 
-I’m a [Data Science & Machine Learning](https://corsi.unisa.it/informatica-magistrale/en/home) student, juggling between academia and my job as a Software Developer at [FOS](https://www.gruppofos.it/). I willingly chose this life, and I don’t know why either.  
+I’m an Italian [Data Science & Machine Learning](https://corsi.unisa.it/informatica-magistrale/en/home) student, formerly a Software Developer at [FOS](https://www.gruppofos.it/). I thought my schedule wasn't chaotic enough, so I added an exchange semester at [Gachon University](https://www.gachon.ac.kr/sites/eng/index.do) in South Korea. Still don't know why I chose this life. 
 
 I write code mostly in **Python** and **Java**, which means I spend half my time dealing with indentation errors and the other half wondering why everything in Java takes 10 lines.  
 Occasionally, I build things. Some of them _kinda_ work.  
